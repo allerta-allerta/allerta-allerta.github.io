@@ -3,16 +3,22 @@ title: "Contact"
 permalink: "/contact.html"
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
-<div class="form-group row">
-<div class="col-md-6">
-<input class="form-control" type="text" name="name" placeholder="Name*" required>
-</div>
-<div class="col-md-6">
-<input class="form-control" type="email" name="_replyto" placeholder="E-mail Address*" required>
-</div>
-</div>
-<textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
-<input class="btn btn-success" type="submit" value="Send">
-</form>
+You can safely contact us at **\<insert new email\>**. 
+
+Our PGP key is the following:
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaP06tBYJKwYBBAHaRw8BAQdA1V6nSK2XL6Fc/fFOJfC6XlbqNByBDGzYbRF7
+SMv70qK0I2FsbGVydGEtYWxsZXJ0YSA8Z29vYmJsZUBwcm90b24ubWU+iJYEExYK
+AD4WIQRIyjaqk0ZS6zpJWIeA0LZexLvYwQUCaP06tAIbAwUJBaRtDAULCQgHAwUV
+CgkICwUWAgMBAAIeAQIXgAAKCRCA0LZexLvYwTWpAP9huwu5dxy2a6i3tzbV9XlM
+2ALcYd+j9acBB5dHP1ikZAEAhISng0+CTaqmy4Sg+Es0lMwIxoGNrJlkMLVUri82
+EQ64OARo/Tq0EgorBgEEAZdVAQUBAQdAwOVHuB/fFrTIEf6Iohc8PU5FQUAROsUc
+idjja8ZdOEADAQgHiH4EGBYKACYWIQRIyjaqk0ZS6zpJWIeA0LZexLvYwQUCaP06
+tAIbDAUJBaRtDAAKCRCA0LZexLvYwVrtAQC4kRva90EmDysISFFvPpvERdmS02gZ
+86WZfYCHcKl+6gD/RlcHO4yKixyC1uug7T1gMDwJSLWG8aV2GZ+ndCRO+wo=
+=/gKO
+-----END PGP PUBLIC KEY BLOCK-----
+```
