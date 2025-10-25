@@ -4,7 +4,7 @@ title:  "This is the first post"
 author: allerta-allerta
 categories: [ First, post ]
 image: assets/images/home.jpg
-tags: [post]
+tags: [post,sticky]
 ---
 
 OK, so this is a usual Markdown page.
